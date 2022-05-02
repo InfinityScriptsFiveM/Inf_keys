@@ -12,4 +12,5 @@ server_scripts {
     "locales/language.lua",
     "config.lua",
     "server/main.lua",
+    'versioncheck.lua',
 }
